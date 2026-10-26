@@ -1,0 +1,6 @@
+@Tp_Final_Roscio_Nova_HostAddress = http://localhost:5210
+
+GET {{Tp_Final_Roscio_Nova_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

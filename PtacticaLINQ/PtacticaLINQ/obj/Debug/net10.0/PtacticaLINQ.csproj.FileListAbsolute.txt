@@ -1,0 +1,14 @@
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\bin\Debug\net10.0\PtacticaLINQ.exe
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\bin\Debug\net10.0\PtacticaLINQ.deps.json
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\bin\Debug\net10.0\PtacticaLINQ.runtimeconfig.json
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\bin\Debug\net10.0\PtacticaLINQ.dll
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\bin\Debug\net10.0\PtacticaLINQ.pdb
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\PtacticaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\PtacticaLINQ.AssemblyInfoInputs.cache
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\PtacticaLINQ.AssemblyInfo.cs
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\PtacticaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\PtacticaLINQ.dll
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\refint\PtacticaLINQ.dll
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\PtacticaLINQ.pdb
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\PtacticaLINQ.genruntimeconfig.cache
+C:\Users\juans\source\repos\PtacticaLINQ\PtacticaLINQ\obj\Debug\net10.0\ref\PtacticaLINQ.dll
